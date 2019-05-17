@@ -1,0 +1,29 @@
+export default [{
+    title: "热销",
+    id: 1,
+    type: 'one'
+}, {
+    title: "心动的鱼套餐",
+    id: 2,
+    type: 'two'
+}, {
+    title: "心动的鱼",
+    id: 3,
+    type: 'three'
+}, {
+    title: "好吃的凉菜",
+    id: 4,
+    type: 'fore'
+}, {
+    title: "你的江湖菜",
+    id: 5,
+    type: 'five'
+}, {
+    title: "主食来果腹",
+    id: 6,
+    type: 'six'
+}, {
+    title: "饮料",
+    id: 7,
+    type: 'seven'
+}]
